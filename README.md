@@ -11,23 +11,23 @@
 </div>
 
 <div align="center"><br>
-    <img alt="Wildici-HTML" height="30" width="40"
+    <img alt="HTML5" title="HTML5" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="Wildici-CSS" height="30" width="40"
+    <img alt="CSS3" title="CSS3" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Wildici-Js" height="30" width="40"
+    <img alt="JavaScript" title="JavaScript" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Wildici-jQuery" height="30" width="40"
+    <img alt="jQuery" title="jQuery" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-    <img alt="Wildici-React" height="30" width="40"
+    <img alt="ReactJS" title="ReactJS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="Wildici-MaterialUI" height="30" width="40"
+    <img alt="MaterialUI" title="MaterialUI" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-    <img alt="Wildici-C#" height="30" width="40"
+    <img alt="C#" title="C#" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img alt="Wildici-GIT" height="30" width="40"
+    <img alt="GIT" title="GIT" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Wildici-Azure" height="30" width="40"
+    <img alt="Azure" title="Azure" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </div>
 
