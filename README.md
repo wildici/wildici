@@ -23,8 +23,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img alt="MaterialUI" title="MaterialUI" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-    <img alt="C#" title="C#" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img alt="GIT" title="GIT" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="Azure" title="Azure" height="30" width="40"
